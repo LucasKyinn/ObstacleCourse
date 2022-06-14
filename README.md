@@ -2,7 +2,7 @@
 
 [![image](https://user-images.githubusercontent.com/78411295/173557374-c9cf2b05-d8af-4af5-a8e5-93fb6e107ddb.png)](https://youtu.be/i5k9wEP_QmA)
 
-Developed with Unreal Engine 5 as part of the online course from GameDev.tv called "Unreal 5.0 C++ Developer: Learn C++ and Make Video Games".
+I'm following the online course from GameDev.tv called "Unreal 5.0 C++ Developer: Learn C++ and Make Video Games" by Sam Pattuzzi.
 
 This is the second out of 5 projects from this course, this is a really really beginner level project .
 
